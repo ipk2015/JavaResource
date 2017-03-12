@@ -1,0 +1,2 @@
+# JavaResource
+for java
